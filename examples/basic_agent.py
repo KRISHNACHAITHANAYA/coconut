@@ -7,7 +7,8 @@ This example demonstrates how to create and use a simple agent.
 import sys
 import os
 
-# Add the src directory to the path
+# Add the src directory to the path for standalone execution
+# For production use, install the package with: pip install -e .
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'src'))
 
 from coconut import Agent

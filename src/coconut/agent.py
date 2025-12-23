@@ -83,6 +83,7 @@ class Agent:
         """
         print(f"{self.name} is running...")
         
+        iteration = 0
         for iteration in range(max_iterations):
             # Perceive
             perception = self.perceive(environment)
