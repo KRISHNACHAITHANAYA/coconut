@@ -14,3 +14,20 @@ Design and train an accurate CNN-based classification model
 Evaluate performance using standard metrics
 
 Deploy the model using a simple and user-friendly web application
+
+
+🧠 Technologies & Tools Used
+
+Programming Language: Python
+
+Deep Learning: TensorFlow / Keras, PyTorch
+
+Image Processing: OpenCV
+
+Data Handling: NumPy, Pandas
+
+Model Evaluation: Scikit-learn
+
+Data Augmentation: Albumentations / Imgaug
+
+Web Framework: Flask
