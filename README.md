@@ -1,18 +1,6 @@
 Early detection of coconut diseases using advanced AI models (Dual YOLO + Gemini LLM).
 
-🌴 Features
-Dual YOLO Models: Detect 11 different coconut diseases with high accuracy
-Model 1: Detection model (5 diseases with bounding boxes)
-Model 2: Classification model (6 diseases + pest detection)
-Gemini AI Integration: Get AI-powered treatment recommendations
-Multi-language Support: English, Kannada, Tamil, Telugu, Malayalam
-Expert Finder: Connect with agricultural experts near you
-Product Management: Curated treatment products with purchase links
-Voice Assistant: Audio diagnosis and treatment recommendations
-Responsive Design: Works on desktop, tablet, and mobile
-Scroll Animations: Smooth fade-in effects on page scroll
-🎯 Detected Diseases
-Model 1 (Object Detection):
+
 
 Bud Root Dropping
 Bud Rot
